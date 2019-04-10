@@ -12,3 +12,7 @@ table td {
 nav ul li{
    position: ;
 }
+
+#photos{
+  display:inline-block;
+}
